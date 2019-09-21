@@ -3,4 +3,4 @@ module ApplicationCable
     print('hi')
   end
 end
- 
+    
